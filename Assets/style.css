@@ -1,0 +1,17 @@
+.mrmr{
+    /* font-family: 'Arizonia', cursive; */
+    font-weight: bold;
+    font-size: 50px;
+}
+
+a{
+    color:white;
+}
+
+.black{
+    background-color: black;
+}
+
+.padding50{
+    padding: 50px;
+}
