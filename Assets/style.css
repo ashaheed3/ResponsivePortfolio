@@ -1,5 +1,5 @@
 .mrmr{
-    /* font-family: 'Arizonia', cursive; */
+    font-family: 'Arizonia', cursive;
     font-weight: bold;
     font-size: 50px;
 }
@@ -14,4 +14,8 @@ a{
 
 .padding50{
     padding: 50px;
+}
+
+.bold{
+    font-weight: bold;
 }
